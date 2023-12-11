@@ -1,12 +1,12 @@
-# Uso do Display Grid | Explorer Stage 3
+# Use of the Display Grid
 
-### Essa tarefa faz parte do curso Explorer da [Rocketseat](https://www.rocketseat.com.br).
+### This task is part of the [Rocketseat](https://www.rocketseat.com.br) Explorer course.
 
-Nessa atividade foi recriado um blog com ênfase em 
+In this activity was recreated a blog with emphasis on: 
 
-- Uso do Display Grid;
-- Responsividade;
-- Animações.
+- Use of the Display Grid;
+- Responsiveness;
+- Animations.
 
 ## 🔖 Layout 
 

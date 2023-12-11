@@ -1,6 +1,6 @@
 # Use of the Display Grid
 
-### This task is part of the [Rocketseat](https://www.rocketseat.com.br) Explorer course.
+### This task is a part of the [Rocketseat](https://www.rocketseat.com.br) Explorer course.
 
 In this activity was recreated a blog with emphasis on: 
 
